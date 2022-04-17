@@ -1,0 +1,7 @@
+blog/media/
+blog/static/
+blog/blog/__pycache__/
+blog/post/__pycache__/
+blog/post/migrations/
+blog/db.sqlite3
+venv/
